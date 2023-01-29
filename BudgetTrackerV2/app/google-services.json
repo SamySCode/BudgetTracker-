@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896260382296",
+    "firebase_url": "https://budgettracker-37755-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "budgettracker-37755",
+    "storage_bucket": "budgettracker-37755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896260382296:android:319cfc9f152b9deba9f42d",
+        "android_client_info": {
+          "package_name": "com.example.budgettrackerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896260382296-8a781o9ejtkqp65o75ismesbfpg051ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLQ7uRfc6XLWzkXBQsXbteGJ5JmtN2yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896260382296-8a781o9ejtkqp65o75ismesbfpg051ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

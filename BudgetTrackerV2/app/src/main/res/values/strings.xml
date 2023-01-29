@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BudgetTrackerV2</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer></string>
+    <string name="navigation_drawer_close">Close Navigation Drawer></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
